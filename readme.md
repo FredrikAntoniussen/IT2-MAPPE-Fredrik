@@ -10,7 +10,7 @@
     - metoder, teknikker og verktøy
     - alternative løsninger
     - objektorienterte programmer med klasser ,arv og objekter
-    - (./Prosjekter/Aksje-prosjekt/)
+    - (./Prosjekter/Aksje-prosjekt/app.py)
 - Modellering og representasjon 
     - objektorienterte modeller som beskriver programstruktur (UML)
     - representasjon av programflyt med kontrollstrukturer
